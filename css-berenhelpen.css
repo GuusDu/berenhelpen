@@ -68,3 +68,6 @@ p{
 .top-nav ul li:hover{
 	left: 4px;
 }
+
+video {
+	margin: 20px -20px 20px -20px;
